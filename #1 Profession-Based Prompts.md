@@ -1,5 +1,5 @@
 
-# Amazing chatGpt Promts
+#1 Profession-Based Prompt
 
 1. Mathematician:
 
