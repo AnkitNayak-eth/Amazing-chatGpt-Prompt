@@ -54,4 +54,3 @@ We would like to express our gratitude to OpenAI for developing the incredible C
 ## Thank you
 
 Thank you for visiting the Amazing-chatGpt-Prompts repository. Happy chatting with ChatGPT!
-[java12.txt](https://github.com/AnkitNayak-eth/Amazing-chatGpt-Prompts/files/12043460/java12.txt)
